@@ -81,6 +81,20 @@ main {
   font-size: 28px;
 }
 
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.row {
+  display: flex;
+}
+
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+}
+
 a {
   color: #9f91cc;
 }
